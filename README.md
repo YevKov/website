@@ -1,3 +1,7 @@
 # Website
 
-Here I store source of my personal website.
+Hi there!
+
+I'm Yev. You can find me on [LinkedIn](https://www.linkedin.com/in/kovalienia/).
+
+Cheers.
